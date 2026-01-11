@@ -1,0 +1,28 @@
+[
+  {
+    "brand": "Tesla",
+    "model": "Model 3",
+    "slug": "tesla-model-3",
+    "year": 2024,
+    "category": ["Sedan","EV"],
+    "powertrain": "Electric",
+    "range": 513,
+    "efficiency": 15,
+    "acceleration": "5.8s",
+    "topSpeed": "225 km/h",
+    "market": "Global"
+  },
+  {
+    "brand": "BMW",
+    "model": "i4",
+    "slug": "bmw-i4",
+    "year": 2024,
+    "category": ["Sedan","EV"],
+    "powertrain": "Electric",
+    "range": 500,
+    "efficiency": 14,
+    "acceleration": "5.7s",
+    "topSpeed": "230 km/h",
+    "market": "Global"
+  }
+]
